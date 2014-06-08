@@ -1,0 +1,57 @@
+body {
+  /* Have a background repeat to visualize the dynamics of the scroll */
+  background: url('http://s1.warbyparker.com/media/wysiwyg/homepage/hero/140604_SUMMER_REFRESH_hp_hero_desktop_MEN_US.jpg');
+  height: 2000px;
+  font-size: 0.9em;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+}
+
+.layover {
+  height: 100%;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.60);
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.lightbox {
+  overflow: hidden;
+  position: absolute;
+  background: #ECF0F1;
+  top: 50%;
+  left: 50%;
+  margin-top: -300px;
+  margin-left: -400px;
+  height: 600px;
+  width: 800px;
+}
+
+ul {
+  text-align: center;
+  padding: 10px;
+}
+
+li {
+  display: inline-block;
+  margin: 5px;
+}
+
+img {
+  width: 80px;
+}
+
+article {
+  padding: 30px;
+}
+
+aside {
+  padding: 30px;
+  float: right;
+}
+
+
+
+
+
