@@ -17,6 +17,7 @@ body {
 }
 
 .lightbox {
+  border-radius: 5px;
   overflow: hidden;
   position: absolute;
   background: #ECF0F1;
@@ -49,6 +50,7 @@ article {
 aside {
   padding: 30px;
   float: right;
+  font-weight: 400;
 }
 
 
