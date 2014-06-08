@@ -43,3 +43,4 @@ $( document ).ready(function() {
   var lightboxResizer = new Resizer('.lightbox');
 
 });
+
